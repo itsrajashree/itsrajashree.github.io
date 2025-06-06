@@ -14,7 +14,7 @@ A passionate 💡 developer & creative 🎨 designer blending tech and design to
 🐍 Python •AI 🧠 OpenCV • 🖥️ HTML/CSS • 🧰 Git/GitHub • ✨ Canva • 📊 JS (basic)
 
 📫 Let's Connect!
-🌍 Portfolio: []
+🌍 Portfolio: [https://itsrajashree.github.io/My-Portfolio/]
 
 📧 Email: [rajashreeradha.careerpath@gmail.com]
 
